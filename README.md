@@ -1,1 +1,1 @@
-# Frequ-ncia-Eletr-nica
+# Frequencia-Eletronica
