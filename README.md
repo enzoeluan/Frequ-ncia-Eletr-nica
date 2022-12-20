@@ -19,3 +19,5 @@
 
 <h1>Protótipo de alta fidelidade</h1>
 
+<img>
+
