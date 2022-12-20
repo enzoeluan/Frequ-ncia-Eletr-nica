@@ -28,3 +28,12 @@
 ![Telaobs PI](https://user-images.githubusercontent.com/119829559/208762347-3a49bc1c-6177-42a5-be2f-06559c1e9dec.png)
 ![Telaanexos PI](https://user-images.githubusercontent.com/119829559/208762360-2ecd669b-ca95-4221-8132-53c2372d9566.png)
 ![Telametricas PI](https://user-images.githubusercontent.com/119829559/208762389-fb39c71f-9d1f-4be1-a90f-116ca0119fec.png)
+
+<h1>Colaboradores</h1>
+<ul>
+<li>Alvaro Augusto Oliveira Pantoja Pimentel</li>
+<li>Enzo Eluan Cruz</li>
+<li>João Paulo da Silva Castro</li>
+<li>Rannery Carlos Mota Vieira</li>
+<li>Reryson Augusto Farinha</li>
+</ul>
